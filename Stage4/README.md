@@ -17,13 +17,13 @@ The study’s key finding was that combining genomic and chemical data improves 
 * Install necessary libraries for cheminformatics and data processing.  
 * Import the dataset containing dose-response data and filter it to select the most frequent cell line.  
 * Retrieve SMILES representations for the selected drugs using pubchempy, with error handling for potential issues.  
-* Concatenate the SMILES data with the cell line information to create a comprehensive dataset (df\_final).
+* Concatenate the SMILES data with the cell line information to create a comprehensive dataset (df_final).
 
 **Descriptor Calculation**:
 
 * Calculate Lipinski's Rule of Five descriptors (Molecular Weight, LogP, Hydrogen Donors, and Acceptors) for each compound.  
 * Compute over 200 additional molecular descriptors using the RDKit library to enrich the dataset with chemical information.  
-* Integrate these descriptors into the df\_final dataframe.
+* Integrate these descriptors into the df_final dataframe.
 
 **Feature Engineering**:
 
@@ -32,14 +32,14 @@ The study’s key finding was that combining genomic and chemical data improves 
 
 **Model Training and Hyperparameter Optimization**:
 
-* Set up the pycaret library for regression tasks, preprocessing the data and specifying the target variable (LN\_IC50).  
+* Set up the pycaret library for regression tasks, preprocessing the data and specifying the target variable (LN_IC50).  
 * Compare multiple regression models to identify the best performer.  
 * Tune the hyperparameters of the best model to enhance performance and evaluate the model using visual metrics.
 
 **Prediction and Analysis**:
 
 * Prepare a dataset for predictions by excluding the target variable.  
-* Use the tuned model to predict LN\_IC50 values and compare actual versus predicted results with scatter plots for performance analysis.
+* Use the tuned model to predict LN_IC50 values and compare actual versus predicted results with scatter plots for performance analysis.
 
 
 **Results and interpretation of your model**
