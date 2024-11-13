@@ -133,51 +133,51 @@ HDACs are promising targets for cancer therapy due to their role in tumorigenesi
 
 **Visualisations**
 
-![1 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/1%20hdac.png)
+![1 hdac](images/1%20hdac.png)
 
 
 Figure 1: visualisation of HDAC1 with the ligand epicatechin 
 
-![2 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/2%20hdac.png)
+![2 hdac](images/2%20hdac.png)
 
 Figure 2: visualisation of HDAC2 with the ligand Tubastatin A
 
-![3 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/3%20hdac.png)
+![3 hdac](images/3%20hdac.png)
 
 Figure 3: visualisation of HDAC3 with the ligand Tubastatin A 
 
 
-![4 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/4%20hdac.png)
+![4 hdac](images/4%20hdac.png)
 Figure 4: visualisation of HDAC4  with the ligand TMP269 
 
-![5 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/5%20hdac.png)
+![5 hdac](images/5%20hdac.png)
 
 Figure 5: visualisation of HDAC5 with the ligand TMP269 
 
-![6 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/6%20hdac.png)
+![6 hdac](images/6%20hdac.png)
 
 Figure 6: visualisation of HDAC6  with the ligand TMP269 
 
-![7 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/7%20hdac.png)
+![7 hdac](images/7%20hdac.png)
 
 Figure 7: visualisation of HDAC7 with the ligand TMP269 
 
-![8 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/8%20hdac.png)
+![8 hdac](images/8%20hdac.png)
 
 Figure 8: visualisation of HDAC8  with the ligand TMP269 
 
-![hdac9](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/hdac9.png)
+![hdac9](images/hdac9.png)
 
 Figure 9: visualisation of HDAC9  with the ligand TMP269 
 
-![10 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/10%20hdac.png)
+![10 hdac](images/10%20hdac.png)
 
 Figure 10 : visualisation of HDAC10  with the ligand TMP269 
 
-![11 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/11%20hdac.png)
+![11 hdac](images/11%20hdac.png)
 Figure 11: visualisation of HDAC11 with the ligand Pelargonidin 
 
-![mean BA-dock](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/mean%20BA-dock.png)
+![mean BA-dock](images/mean%20BA-dock.png)
 
 
 Figure 12: a heatmap from the mean of the docking scores of the 11 HDAC subtypes
