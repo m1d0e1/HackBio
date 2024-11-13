@@ -72,7 +72,7 @@ A dataset consisting of 1107 bioactivity inputs from Homo sapiens was obtained f
 •	Hydrogen bond donors < 5
 •	Hydrogen bond acceptors < 10
 The IC50 values, which represent how effectively a compound inhibits the target enzyme, were used as key metrics for bioactivity assessment. These values help to evaluate the potential of compounds as drug candidates.
-<img src='img/classes.png'>
+<img src='images/classes.png'>
 
 ### Pre-processing Steps
 The dataset was filtered using Lipinski Descriptors to ensure drug-likeness based on molecular weight, hydrogen bonds, and LogP. IC50 values were converted to pIC50 for easier interpretation (scaled between 2 and 10). Redundant and missing values were removed. Descriptors were concatenated to organize the data. The cleaned dataset consisted of Lipinski descriptors and pIC50 measurements. Molecules were classified based on IC50: Active (<1000), Inactive (>10000) and Intermediate (1000-10000). Other 200 descriptors were generated using the Padel script. The dataset was split into 80% for training and 20% for testing.
