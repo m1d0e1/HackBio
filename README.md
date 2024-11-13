@@ -1,0 +1,1 @@
+This repository documents the four stages of the BioHack internship, showcasing progress through literature review, coding and visualization, bioinformatics pipeline implementation, and reproducibility in bioinformatics research.
