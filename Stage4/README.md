@@ -46,7 +46,7 @@ The study’s key finding was that combining genomic and chemical data improves 
 
 The LightGBM model was selected based on its lower Mean Absolute Error (MAE) of 2.2064 and Root Mean Squared Error (RMSE) of 2.6909 compared to other models. A scatter plot demonstrated a linear correlation between actual and predicted values, indicating effective model performance.
 
-![actual vs predicted hb](images/actual vs predicted hb.png)
+![actual vs predicted hb](images/actual%20vs%20predicted%20hb.png)
 
 **Comparison with the findings of the target paper.**
 
