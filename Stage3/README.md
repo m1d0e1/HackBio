@@ -72,6 +72,7 @@ A dataset consisting of 1107 bioactivity inputs from Homo sapiens was obtained f
 •	Hydrogen bond donors < 5
 •	Hydrogen bond acceptors < 10
 The IC50 values, which represent how effectively a compound inhibits the target enzyme, were used as key metrics for bioactivity assessment. These values help to evaluate the potential of compounds as drug candidates.
+
 <img src='images/classes.png'>
 
 ### Pre-processing Steps
