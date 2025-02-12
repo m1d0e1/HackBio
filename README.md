@@ -1,4 +1,4 @@
-# Biohack Internship Projects Repository
+# BioHack Internship Projects Repository
 
 Welcome to the repository showcasing four key projects from my Biohack internship! This collection highlights my work in bioinformatics, AI-driven drug development, and data science, leveraging cutting-edge tools and methodologies to advance drug discovery and molecular analysis.
 
